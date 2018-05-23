@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "135377168591",
+    "firebase_url": "https://iscdemo-8686e.firebaseio.com",
+    "project_id": "iscdemo-8686e",
+    "storage_bucket": "iscdemo-8686e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135377168591:android:3f2a330441c6f01c",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.a58calllogcontent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135377168591-ut3l14ffdl1kgg1len5gcm6n0o4trgrq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.edu.ittepic.a58calllogcontent",
+            "certificate_hash": "9ec198de0f8590031c194e6d37901fb72661b93b"
+          }
+        },
+        {
+          "client_id": "135377168591-4djrvicvqpok1v0a2mcddbttqf24ch2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmQI07ZxDtiA_IfOy90XZT7L3Ebe6dLtg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135377168591-4djrvicvqpok1v0a2mcddbttqf24ch2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135377168591:android:2d53683159a38e63",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.alumnosfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135377168591-lr57b30fv4ts8etplouvh652c28vpvmg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.edu.ittepic.alumnosfirebase",
+            "certificate_hash": "75db710658ed511aa1338a156bc16ee83e6c6766"
+          }
+        },
+        {
+          "client_id": "135377168591-4djrvicvqpok1v0a2mcddbttqf24ch2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmQI07ZxDtiA_IfOy90XZT7L3Ebe6dLtg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135377168591-4djrvicvqpok1v0a2mcddbttqf24ch2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135377168591:android:405bd28b229023b8",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.fbaseuno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135377168591-4nkgmcioe4csr5o7ep6bcuh2ssok6an3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.edu.ittepic.fbaseuno",
+            "certificate_hash": "75db710658ed511aa1338a156bc16ee83e6c6766"
+          }
+        },
+        {
+          "client_id": "135377168591-4djrvicvqpok1v0a2mcddbttqf24ch2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmQI07ZxDtiA_IfOy90XZT7L3Ebe6dLtg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135377168591-4djrvicvqpok1v0a2mcddbttqf24ch2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
